@@ -1,9 +1,9 @@
 # 比较全面的各家 Emby 地址
 #payload:
-  - PROCESS-NAME,electron.exe
-  - DOMAIN-KEYWORD,emby
-  - DOMAIN-KEYWORD,odysseyplus
-  - DOMAIN-KEYWORD,emby.wtf
+#  - PROCESS-NAME,electron.exe
+#  - DOMAIN-KEYWORD,emby
+#  - DOMAIN-KEYWORD,odysseyplus
+#  - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmaooo.com
   - DOMAIN-KEYWORD,xeton.dev
   - DOMAIN-SUFFIX,emby.riches.cloud
