@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="null" group-title="台湾",民视新闻
+http://tv.redrainl.site:9500/live.m3u8?c=01
+#EXTINF:-1 tvg-logo="null" group-title="台湾",三立财经
+http://tv.redrainl.site:9500/live.m3u8?c=51
+#EXTINF:-1 tvg-logo="null" group-title="台湾",中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1 tvg-logo="null" group-title="台湾",中视新闻
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1 tvg-logo="null" group-title="台湾",台视新闻
+http://tv.redrainl.site:9500/live.m3u8?c=11
+#EXTINF:-1 tvg-logo="null" group-title="台湾",寰宇新闻
+http://tv.redrainl.site:9500/live.m3u8?c=22
+#EXTINF:-1 tvg-logo="null" group-title="台湾",镜新闻
+http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1 tvg-logo="null" group-title="台湾",TVBS新闻
+http://tv.redrainl.site:9500/live.m3u8?c=0
+#EXTINF:-1 tvg-logo="null" group-title="台湾",EBS东森新闻
+http://tv.redrainl.site:9500/live.m3u8?c=05
+#EXTINF:-1 tvg-logo="null" group-title="台湾",Live三立新闻
+http://tv.redrainl.site:9500/live.m3u8?c=06
+#EXTINF:-1 tvg-logo="null" group-title="香港",翡翠台
+http://r.jdshipin.com/62WM7
